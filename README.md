@@ -4,4 +4,4 @@
 [<img src="https://user-images.githubusercontent.com/42347722/136174862-cc416e8f-4c38-4641-8472-31cb90244b17.png">](https://www.credly.com/badges/e8d90553-943a-48a8-888d-aca9184f6e09/public_url)
 
 
-<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="60%">
+<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="70%">
