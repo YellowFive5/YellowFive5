@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  push: {branches: ["master", "main"]}
+  schedule: [{cron: "0 0 * * *"}]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
